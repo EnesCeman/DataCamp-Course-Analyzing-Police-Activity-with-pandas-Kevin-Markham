@@ -5,17 +5,17 @@ Follow along with the online paid course on [DataCamp presented by Kevin Markham
 During this course many topics were covered using two datasets - one for the police stops in Rhode Island and the other for weather conditions during that period.
 
 Concepts that I managed to cover and understand after completing the course are the following:
-importing and cleaning data
-dealing with NaN/null values
-analyzing data
-calculating percentage values for columns
-visual data analysis
-dealing with DateTimeIndex
-using matplotlib to showcase simple visual representation of data
-resampling data
-sublopts for simultaneous graphic representations of different columns with different value scales
-trying different kind of plots in matplotlib (line chart, bar chart, barh, stacked bars, histograms...)
-merging dataframes on one common column
-using categories instead of strings for ordinal values and memory efficency
-creating MultiIndexed Series and using unstack() function on them to transform them into DataFrames
-using pivot_table function to get the same result as when unstacking MultiIndexed Series
+* importing and cleaning data
+* dealing with NaN/null values
+* analyzing data
+* calculating percentage values for columns
+* visual data analysis
+* dealing with DateTimeIndex
+* using matplotlib to showcase simple visual representation of data
+* resampling data
+* sublopts for simultaneous graphic representations of different columns with different value scales
+* trying different kind of plots in matplotlib (line chart, bar chart, barh, stacked bars, histograms...)
+* merging dataframes on one common column
+* using categories instead of strings for ordinal values and memory efficency
+* creating MultiIndexed Series and using unstack() function on them to transform them into DataFrames
+* using pivot_table function to get the same result as when unstacking MultiIndexed Series etc.
